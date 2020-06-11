@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink, withRouter } from 'react-router-dom'
 
- function UserSignIn(props) {
+function UserSignIn(props) {
     return (
         <div className="form">
             <p className="form-title">

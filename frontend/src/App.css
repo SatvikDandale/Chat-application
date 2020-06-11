@@ -1,6 +1,10 @@
+.root,
+.App {
+  height: 100%;
+  /* display: block; */
+}
 html,
 body {
   height: 100%;
   width: 100%;
 }
-  
